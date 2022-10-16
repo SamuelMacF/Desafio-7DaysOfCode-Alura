@@ -1,5 +1,5 @@
-<h1>:warning:</h1>
-<h2>::construction:Em Desenvolvimento:construction:</h2>
+
+<h1>:warning::construction:Em Desenvolvimento:construction:</h1>
 <h3>Lógica JS 1/7: Operações Booleanas</h3>
 <h4>A sua tarefa de hoje é reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:</h4>
 
