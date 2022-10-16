@@ -1,5 +1,6 @@
-<h1>:hammer:Em Desenvolvimento:hammer:</h1>
-<h2>Lógica JS 1/7: Operações Booleanas</h2>
+<h1>:warnig:</h1>
+<h2>::construction:Em Desenvolvimento:construction:</h2>
+<h3>Lógica JS 1/7: Operações Booleanas</h3>
 <h4>A sua tarefa de hoje é reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:</h4>
 
 	let numeroUm = 1
