@@ -2,12 +2,12 @@
 <h2>Lógica JS 1/7: Operações Booleanas</h2>
 A sua tarefa de hoje é reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:
 
-.1let numeroUm = 1
-.1let stringUm = '1'
-.1let numeroTrinta = 30
-.1let stringTrinta = '30'
-.1let numeroDez = 10
-.1let stringDez = '10'
+1.let numeroUm = 1
+1.let stringUm = '1'
+1.let numeroTrinta = 30
+1.let stringTrinta = '30'
+1.let numeroDez = 10
+1.let stringDez = '10'
 
 if (COMPARAR O numeroUm e a stringUm) {
   console.log('As variáveis numeroUm e stringUm tem o mesmo valor, mas tipos diferentes')
