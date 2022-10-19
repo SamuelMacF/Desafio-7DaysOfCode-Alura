@@ -29,22 +29,32 @@
 	}
 	
 <h3>#7DaysOfCode - Lógica JS 2/7: 👩🏽‍💻 Variáveis</h3>
-<h4>Por isso, hoje, eu vou te ensinar a desenvolver um programa simulando um desses sites. Ele deve pedir para o usuário responder 3 perguntas:
+<h4>Por isso, hoje, eu vou te ensinar a desenvolver um programa simulando um desses sites. Ele deve pedir para o usuário responder 3 perguntas:</h4>
 
 	- Qual o seu nome?
 	- Quantos anos você tem?
 	- Qual linguagem de programação você está estudando?
 
-No final, o sistema vai exibir a mensagem:
+<h4>No final, o sistema vai exibir a mensagem:</h4>
 
 	"Olá [nome], você tem [idade] anos e já está aprendendo [linguagem]!"
 	
-Você vai complementar o código para que, depois de exibir a mensagem anterior, o programa pergunte:
+<h4>Você vai complementar o código para que, depois de exibir a mensagem anterior, o programa pergunte:</h4>
 
 	Você gosta de estudar [linguagem]? Responda com o número 1 para SIM ou 2 para NÃO.
 
-E aí, dependendo da resposta, ele deve mostrar uma das seguintes mensagens:
+<h4>E aí, dependendo da resposta, ele deve mostrar uma das seguintes mensagens:</h4>
 
 	1 > Muito bom! Continue estudando e você terá muito sucesso.
-	2 > Ahh que pena... Já tentou aprender outras linguagens?</h4>
+	2 > Ahh que pena... Já tentou aprender outras linguagens?
 
+<h3>#7DaysOfCode - Lógica JS 3/7: Fluxo de decisão</h3>
+<h4>Seu desafio de hoje é criar os destinos possíveis de um jogo, em que o usuário consiga escolher:</h4>
+
+<p>1. Se quer seguir para área de Front-End ou seguir para a área de Back-End.</p>
+
+<p>2. Caso esteja na área de Front-End, se quer aprender React ou aprender Vue. Caso esteja na área de Back-End, poderá aprender C# ou aprender Java.</p>
+
+<p>3. Depois, independente das escolhas anteriores, o usuário poderá escolher entre seguir se especializando na área escolhida ou seguir se desenvolvendo para se tornar Fullstack. Você deve exibir na tela uma mensagem específica para cada escolha.</p>
+
+<p>4. Por fim, pergunte quais são as tecnologias nas quais a pessoa gostaria de se especializar ou de conhecer. Aqui, a pessoa pode responder N tecnologias, uma de cada vez. Então, enquanto ela continuar respondendo ok para a pergunta: "Tem mais alguma tecnologia que você gostaria de aprender?", continue apresentando para ela o Prompt, para que ela complete o nome da tecnologia em questão. E, logo depois, apresente uma mensagem comentando algo sobre a linguagem inserida.</p>
