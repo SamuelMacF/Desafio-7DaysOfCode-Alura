@@ -94,7 +94,7 @@ function querAprenderTecnologias(){
   tecnologiasAdicionais = prompt ('Existe mais alguma tecnologia que gostaria de se especializar ou conhecer? Responda 1 para "Sim" 2 para "Nao".')
   
   while (tecnologiasAdicionais == 1){
-  let adicionar = prompt ("Qual?");
+    let adicionar = prompt ("Qual?");
     listaTecAdicionais.push(adicionar)
     tecnologiasAdicionais = prompt ('Existe mais alguma tecnologia que gostaria de se especializar ou conhecer? Responda 1 para "Sim" 2 para "Nao".')
   
