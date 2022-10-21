@@ -65,3 +65,24 @@
 <p>Em seguida, o programa vai perguntar para você qual o valor que você deseja chutar e, caso você acerte, ele irá te parabenizar. Caso erre, ele vai te dar mais 2 tentativas.</p>
 
 <p>No fim, caso você não acerte nenhuma vez, ele vai imprimir qual era o número inicial.</p>
+
+<h3>#7DaysOfCode - Lógica JS 5/7: Arrays e coleções</h3>
+<h4>Criar um programa em Javascript que perguntará se você deseja adicionar uma comida na sua lista de compras, e você deve poder responder com sim ou não.</h4>
+
+<p>Em seguida, ele perguntará qual comida você deseja inserir, e você digitará o nome dela, como por exemplo batata.</p>
+
+<p>Depois, ele deverá perguntar em qual categoria essa comida se encaixa, com algumas opções já pré-definidas, como frutas, laticínios, congelados, doces e o que mais você achar interessante. Assim, você poderá separar tudo no seu devido grupo.</p>
+
+<p>Por fim, caso você não queira mais adicionar nada na lista de compras e responder não na primeira pergunta, ele irá exibir uma lista com todos os itens agrupados, da seguinte forma:</p>
+
+<p><strong>Caso você adicione na sua lista:</strong></p>
+
+	banana, leite em pó, tomate, leite vegetal, chiclete, bala de ursinho, maçã, uva, abacate e leite de vaca
+
+<p><strong>O programa deverá imprimir, por exemplo:</strong></p>
+
+	Lista de compras:
+    	Frutas: banana, tomate, maçã, uva, abacate
+    	Laticínios: leite vegetal, leite de vaca, leite em pó
+    	Congelados:
+    	Doces: chiclete e bala de ursinho
