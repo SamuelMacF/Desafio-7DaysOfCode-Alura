@@ -15,6 +15,7 @@ let acertou = false;
     }
    
    alert("Você errou, tente novamente!");
+   
 }
 
 if (!acertou){
