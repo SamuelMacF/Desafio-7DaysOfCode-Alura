@@ -1,5 +1,5 @@
 
-<h1>:warning::construction:Em Desenvolvimento:construction:</h1>
+<h1>:white_check_mark:Projeto Finalizado:white_check_mark:</h1>
 <h3>Lógica JS 1/7: Operações Booleanas</h3>
 <h4>A sua tarefa de hoje é reescrever o código abaixo de maneira que ele imprima as informações de maneira correta, que faça sentido e sem erros:</h4>
 
@@ -102,3 +102,12 @@ Você deverá criar a opção de remover algum item da lista, que será exibida 
 <p>Por exemplo: "Não foi possível encontrar o item dentro da lista!"</p>
 
 <p>Lembre-se que a opção de remover um item só deverá estar disponível a partir do momento que existir ao menos um elemento dentro da lista de compras.</p>
+
+<h3>#7DaysOfCode - Lógica JS 7/7: Funções em Javascript</h3>
+<h4>Neste último desafio, a minha proposta para você é: crie a sua própria calculadora, porém com um detalhe muito importante: cada operação deverá ser uma função diferente no seu código.</h4>
+
+<p>Primeiramente, a pessoa deverá escolher uma opção de operação impressa pelo programa na tela.</p>
+
+<p>Depois, ela deverá inserir os dois valores que deseja utilizar, e o programa imprimirá o resultado da operação em questão.</p>
+
+<p>As opções disponíveis deverão ser: soma, subtração, multiplicação, divisão, e sair. Nessa última, o programa deverá parar de ser executado, mostrando uma mensagem "Até a próxima".</p>
